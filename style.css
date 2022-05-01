@@ -1,0 +1,55 @@
+.navbar{
+    margin-top: 50px;
+}
+.buttom{
+    margin-bottom: 50px;
+}
+
+.containt{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    background:url(../isor.jpg);
+    background-size: cover;
+    }
+    .main{
+        font-weight: 800;
+        line-height:900;
+        padding-left: 25%;
+    }
+  
+    
+   
+
+.main.name{
+    font-weight: 900;
+    list-style: 900px;
+    font-size: xx-large;
+    
+    
+}
+
+
+
+
+.animation-text{
+    position:relative;
+    height: 90px;
+    overflow:hidden;
+    margin-top: 4px;
+    
+    }
+    .animation-text
+    {
+    color: rgb(83, 155, 11);
+    font-size:3cm;
+    font-weight:600px;
+    line-height: 700;
+    letter-spacing:1px;
+}
+.animation-text{
+    animation: text-move 10s infinite;
+}
+
+
